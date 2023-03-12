@@ -1,3 +1,4 @@
 #172.16.137.135 ansible_user=ansusr
 [targets]
-client1 ansible_host=172.16.137.135 ansible_connection=ssh ansible_user=ansusr ansible_sudo_pass=ansuser
+#client1 ansible_host=172.16.137.135 ansible_connection=ssh ansible_user=ansusr ansible_sudo_pass=ansuser
+172.16.137.135 ansible_user=ansusr ansible_sudo_pass=ansuser
