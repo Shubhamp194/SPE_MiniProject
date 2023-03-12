@@ -1,1 +1,2 @@
-172.16.137.135 ansible_user=ansusr
+[targets]
+172.16.137.135 ansible_user=shubham
