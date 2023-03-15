@@ -1,2 +1,2 @@
 [targets]
-192.168.125.18 ansible_user=niraj
+172.16.137.135 ansible_user=shubham
